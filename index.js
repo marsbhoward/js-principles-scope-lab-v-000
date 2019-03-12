@@ -14,11 +14,11 @@ function overwriteBestCustomer(){
    bestCustomer = "maybe bob"
 }
 
-function changeLeastFavoriteCustomer(){
-    leastFavoriteCustomer = "not bob"
+function changeLeastFavoriteCustomer () {
+  leastFavoriteCustomer = 'mars';
 }
 
 function attemptTwoFavoriteCustomers () {
-  let favoriteCustomer = 'bar';
-  let favoriteCustomer = 'not bar';
+  let favoriteCustomer = 'bob';
+  let favoriteCustomer = 'not bob';
 }
